@@ -1,1 +1,1 @@
-# core2vec - A core-preserving feature learning framework for networks.
+## core2vec - A core-preserving feature learning framework for networks.
